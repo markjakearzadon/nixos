@@ -1,0 +1,45 @@
+Code
+gtk-4.0
+gtk-3.0
+deepin
+dconf
+microsoft-edge
+nemo
+htop
+procps
+btop
+libreoffice
+deeping
+mpv
+baloofileinformationrc
+pulse
+spotify
+zed
+nautilus
+cava
+kiorc
+trashrc
+dolphinrc
+kde.org
+neofetch
+notify
+session
+node_modules
+package-lock.json
+package.json
+
+# /*
+
+# !/.gitignore
+#
+# !/hypr
+# !/kitty
+# !/nixos
+# !/nvim
+# !/sway
+# !/waybar
+#
+#
+
+
+
